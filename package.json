@@ -1,0 +1,13 @@
+{
+  "name": "alchemy-repro",
+  "scripts": {
+    "start": "tsc && node ./dist/index"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^2.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.4"
+  }
+}
